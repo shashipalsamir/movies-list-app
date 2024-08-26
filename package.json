@@ -1,0 +1,19 @@
+{
+  "name": "graphql-fetch-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "@types/axios": "^0.14.0",
+    "axios": "^1.7.5",
+    "graphql": "^16.9.0"
+  }
+}
